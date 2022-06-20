@@ -2,7 +2,7 @@
 - 👀 I’m interested in population health, namely the innovative solutions tech can provide to tackle health disparities! 
 - 🌱 I’m currently learning SQL!
 - 💞️ I’m looking to collaborate on anything! 
-- 📫 How to reach me: check out my website! naimachowdhury.com
+- 📫 How to reach me: check out my website! nimadhury.com
 
 <!---
 nima-dhury/nima-dhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
